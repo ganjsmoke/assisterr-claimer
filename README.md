@@ -22,7 +22,7 @@ This Node.js script automates the daily claiming of points on Assisterr.ai. It l
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ganjsmoke/assister-claimer.git
+   git clone https://github.com/ganjsmoke/assisterr-claimer.git
    cd assister-claimer
    ```
 
